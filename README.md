@@ -29,9 +29,9 @@ This repository serves as a compilation of my solutions to Problem Set 1 from th
 Each folder and file reflects my approach to the challenges presented in the course, demonstrating my analytical skills and theoretical understanding.
 
 ## Table of Contents
-- [Milestone1](/Problem_Set_1) 
--[Milestone2](/Problem_Set_1/Question_1.md) 
-
+- [Milestone1](CSEcon)
+  
+- [Milestone2](Advance_CSEcon) 
 
 
 ### 📫 How to reach me:
