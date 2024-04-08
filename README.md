@@ -21,9 +21,9 @@
 - Anything related to my interests
 - Computer Science Projects
 
-### Technical Skills:
+### 👩‍💻Technical Skills:
 
-languages = ["Python", "Java", "HTML", "CSS", "Javascript"]
+"Python", "Java", "HTML", "CSS", "Javascript"
 
 ### 📫 How to reach me:
 - Email: [weijia.han@dukekunshan.edu.cn](mailto:weijia.han@dukekunshan.edu.cn)
