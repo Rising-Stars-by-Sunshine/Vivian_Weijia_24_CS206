@@ -8,7 +8,7 @@ Considering the advancements made by these esteemed scholars, I am acutely aware
 My envisioned contribution lies in addressing the security challenges posed by generative AI, guided by the pioneering work of Hellman and Diffie. By leveraging their principles in asymmetric cryptography, I aim to fortify the security infrastructure of generative AI systems, ensuring their responsible and safe deployment in various domains.
 In essence, by synthesizing insights from economics and computer science, I endeavor to advance human civilization by promoting gender equity in the labor market and bolstering the security of emerging technologies, thereby fostering a more inclusive and secure digital future.
 
-<img width="468" alt="image" src="https://github.com/Rising-Stars-by-Sunshine/Vivian_Weijia_24_CS206/assets/141093064/6049470a-9d79-4e1d-9601-4acef1bc90a1">
+<img width="797" alt="Screen Shot 2024-04-08 at 22 23 26" src="https://github.com/Rising-Stars-by-Sunshine/Vivian_Weijia_24_CS206/assets/141093064/b1f73734-185c-45e3-ad27-687b074750ec">
 
 Fig.1 The mind map of my answer for question one.
 
