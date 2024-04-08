@@ -1,4 +1,4 @@
-# Vivian-Weijia-_24_CS206
+# Vivian-Weijia-24-CS206
 
 <h1 align="center"> Nice to see you, I'm Weijia Han</h1>
 <h2 align="center">🔥A Promising Sophomore in Computer Science 🔥</h2>
