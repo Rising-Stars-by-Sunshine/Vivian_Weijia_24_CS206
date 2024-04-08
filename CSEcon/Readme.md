@@ -1,4 +1,4 @@
-![image](https://github.com/Rising-Stars-by-Sunshine/Vivian_Weijia_24_CS206/assets/141093064/cadacc9e-d929-4a8b-819e-d9d68690275f)
+
 ## Question one
 
 When envisioning the convergence of computer science and economics, I aspire to follow in the footsteps of Nobel laureate Claudia Goldin and Turing Award recipients Martin Hellman and Whitfield Diffie, each making profound contributions to their respective fields.
