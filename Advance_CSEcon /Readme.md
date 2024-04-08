@@ -13,6 +13,17 @@ The proposed software solution aims to outperform oTree in three key aspects: en
 
 In conclusion, by addressing the identified pain points and integrating innovative features, the proposed software solution holds the potential to significantly enhance strategic interaction studies in experimental economics. By leveraging technology to streamline experimental procedures and enhance participant experiences, researchers can advance our understanding of economic behavior and contribute to the development of robust theoretical frameworks and empirical findings in the field (fig.2).
 
+<img width="468" alt="image" src="https://github.com/Rising-Stars-by-Sunshine/Vivian_Weijia_24_CS206/assets/141093064/15253d07-f78e-45a6-a841-de2ea1584ef5">
+
+Fig. 1. The user interface of Otree trust game where exists contradictory instructions.
+
+<img width="298" alt="image" src="https://github.com/Rising-Stars-by-Sunshine/Vivian_Weijia_24_CS206/assets/141093064/61d91e1d-ef05-4972-b78c-6f7bf808bde6">
+
+Fig. 2. The mind map for the proposed Otree improvements.
+
+## Question Two
+
+
 
 
 
