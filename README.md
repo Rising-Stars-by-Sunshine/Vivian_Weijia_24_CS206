@@ -31,7 +31,7 @@ Each folder and file reflects my approach to the challenges presented in the cou
 ## 👐Table of Contents
 - [CSEcon](CSEcon/)
   
-- [Advance_CSEcon](Advanced_CSEcon/)
+- [Advance_CSEcon](Advance_CSEcon/)
 
 
 ### 📫 How to reach me:
