@@ -33,6 +33,8 @@ Each folder and file reflects my approach to the challenges presented in the cou
   
 - [Advance_CSEcon](Advance_CSEcon%20)
 
+- [Advance_CSEcon](Proposal (New))
+
 
 ### 📫 How to reach me:
 - Email: [weijia.han@dukekunshan.edu.cn](mailto:weijia.han@dukekunshan.edu.cn)
