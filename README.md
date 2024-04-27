@@ -33,7 +33,7 @@ Each folder and file reflects my approach to the challenges presented in the cou
   
 - [Advance_CSEcon](Advance_CSEcon%20)
 
-- [Advance_CSEcon](Proposal (New))
+- [Proposal(New)](Proposal (New)con%20)
 
 
 ### 📫 How to reach me:
