@@ -1,4 +1,4 @@
-![image](https://github.com/Rising-Stars-by-Sunshine/Vivian_Weijia_24_CS206/assets/141093064/67dcc9e5-b1df-477d-828d-afdc09f32b32)![image](https://github.com/Rising-Stars-by-Sunshine/Vivian_Weijia_24_CS206/assets/141093064/92e44aac-d6b8-4757-988f-d909eb2be9c6)<h1 align="center"> Nice to see you, I'm Weijia Han</h1>
+<h1 align="center"> Nice to see you, I'm Weijia Han</h1>
 <h2 align="center">🔥A Promising Sophomore in Computer Science 🔥</h2>
 
 <p align="center">
