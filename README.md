@@ -1,3 +1,25 @@
+# Enhancing Market Efficiency with AI: A Game-Theoretic Approach to Mitigating Information Asymmetry in Digital Economies
+## Project Information
+
+- **Author**: Weijia Han, Majoring in Applied Math / Computer Science, Class of 2026, Duke Kunshan University
+- **Instructor**: Professor Luyao Zhang, Duke Kunshan University
+- **Disclaimer**: This is a submission for the Final Project in COMSCI/ECON 206 Computational Microeconomics, Spring 2024 Term (Seven Week), taught by Professor Luyao Zhang at Duke Kunshan University.
+- **Acknowledgements**:I would like to express my gratitude to Prof. Luyao Zhang for the guidance and insights provided throughout the course of COMPSCI/ECON 206 Computational Microeconomics during the 2024 Spring Term (Seven Week - Second) at Duke Kunshan University. This submission to Final Project has been greatly influenced by the teachings and discussions facilitated in this class. Thank you for fostering an environment that enhances our learning and understanding of computational approaches in economic theory.
+  
+## Introduction to the GitHub Repository
+This repository encompasses all the assignments for the course: Computational Microeconomics. It delves into cutting-edge research topics within computational microeconomics. The directory named CSECON focuses on the evolving landscape of computational economics, emphasizing the integration of human aspects, AI, and computational technology. The section titled Advanced CSECON reviews the limitations of certain computational tools used in game theory experiments and offers a critique of existing studies on federated learning. Additionally, the directory proposal includes a comparative analysis exploring the gaming behaviors of generative AI and reinforcement learning models, addressing the gaps identified in existing research.
+
+
+## Table of Contents
+- [CSEcon](CSEcon/)
+  
+- [Advance_CSEcon](Advance_CSEcon%20)
+
+- [Proposal(New)](Proposal%20(New))
+
+
+
+## More about the author
 <h1 align="center"> Nice to see you, I'm Weijia Han</h1>
 <h2 align="center">🔥A Promising Sophomore in Computer Science 🔥</h2>
 
@@ -24,16 +46,6 @@
 "Python", "Java", "HTML", "CSS", "Javascript"
 
 
-## ✅Repository Introduction
-This repository serves as a compilation of my solutions to Problem Set 1 from the COMSCI/ECON 206 Computational Microeconomics course instructed by Prof. Luyao Zhang. 
-Each folder and file reflects my approach to the challenges presented in the course, demonstrating my analytical skills and theoretical understanding.
-
-## 👐Table of Contents
-- [CSEcon](CSEcon/)
-  
-- [Advance_CSEcon](Advance_CSEcon%20)
-
-- [Proposal(New)](Proposal%20(New))
 
 ## 🧐Professional Profile
 - Intellectual Growth:
