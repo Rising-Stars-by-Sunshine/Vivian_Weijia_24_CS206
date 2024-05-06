@@ -12,11 +12,13 @@
 
 ### Summarize the Background/Motivation
 - What are the gaps between the existing literature and the pressing social and economic issues in the digital economy of complex system involving both human and AI agent that inspires your research?
-
-- 
+- Gaps in Existing Literature and Economic Issues: Traditional economic models often fail to adapt to the dynamic and rapidly evolving digital economies, which are characterized by information asymmetry. These models typically assume complete rationality and static environments, which are unrealistic in today's digital marketplaces. This research seeks to bridge these gaps by integrating AI into game theory to enhance decision-making and align market transactions with actual product values, addressing the limitations highlighted by Akerlof’s 'Lemon Market' model.
+  
 ### Research Questions
 - What are the questions that your research intends to answer?
+- - Can AI counterbalance the shortcomings of traditional game theory models, especially in addressing information asymmetry in marketplaces?
 - Why are the questions important?
+  
 - Why are the questions not answered by existing game theory literature?
 
 ### Application Scenario
