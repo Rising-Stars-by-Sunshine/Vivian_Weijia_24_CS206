@@ -4,7 +4,7 @@
 
 [The compiled pdf](CS206_Weijia_Han_Final_Project.pdf)
 
-[The overleaf zip file](Latex/Final%20Project.zip)
+[The overleaf zip file](Latex/Weijia_Final_Project.zip)
 
 [Colab](https://colab.research.google.com/drive/19XJbIyLFbdUmlsBOxpmrz-7LkOofdpsp?usp=sharing)
 
